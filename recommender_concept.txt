@@ -3,6 +3,7 @@ Basic principle is to group people who contribute to similar projects or based o
 Can we do this based on followers data. Look one follows another person only if one likes his/her
 work and contributions. So this will be wise to use followers data to group people.
 
+
 Point 2 :- 
 Suppose our above model predicts that person A and person B are similar and person A has contributed
 in repo X then we can recommend person B too to contribute in that repo. We can also write like

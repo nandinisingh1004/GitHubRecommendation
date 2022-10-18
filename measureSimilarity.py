@@ -4,6 +4,7 @@ with open("userRepoTypeInfo.txt") as f:
 anss = []
 iter = 0
 
+
 val = open("values3.txt", 'a')
 
 for User1 in users:
