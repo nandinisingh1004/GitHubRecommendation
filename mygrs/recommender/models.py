@@ -2,6 +2,7 @@ from django.db import models
 
 # Create your models here.
 class GithubUsers(models.Model):
+    
     username=models.CharField(unique=True, max_length=60)
     class Meta:
         verbose_name_plural = 'GitHubUser'

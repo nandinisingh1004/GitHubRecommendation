@@ -4,6 +4,7 @@ from .models import GithubUsers, Languages, User_Repo_Type_Contribution, RepoTyp
 import csv
 import json
 
+
 def home(request):
     return render(request, 'recommender/home.html')
 
